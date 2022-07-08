@@ -1,0 +1,1 @@
+# -mf-poc-module-federation-angularapp
